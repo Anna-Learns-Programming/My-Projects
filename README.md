@@ -1,2 +1,2 @@
 # My-Projects
-Personal projects I've tried
+Personal projects I've tried.
