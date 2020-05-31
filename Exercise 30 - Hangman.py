@@ -1,4 +1,5 @@
 # The task is to write a function that picks a random word from a list of words from the WordList text file.
+# Then play Hangamn with that word.
 
 import random
 
