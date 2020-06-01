@@ -1,4 +1,5 @@
 # Age Dictionary
+# Returns the age of a person in the dictionary.
 
 age_dictionary = {
     "Christopher": "20",
